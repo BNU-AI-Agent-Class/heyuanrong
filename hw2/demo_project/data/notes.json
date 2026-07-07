@@ -1,0 +1,7 @@
+[
+  {"text": "买牛奶和鸡蛋", "tags": [], "created": "2026-07-04T09:12:00"},
+  {"text": "读 Karpathy 的 LLM 视频 #research #ai", "tags": ["research", "ai"], "created": "2026-07-04T14:30:00"},
+  {"text": "准备 Day2 的课件 #teaching", "tags": ["teaching"], "created": "2026-07-05T08:00:00"},
+  {"text": "整理小组 GitHub 仓库 #project", "tags": ["project"], "created": "2026-07-05T20:15:00"},
+  {"text": "复习子 agent 的设计 #research #agent", "tags": ["research", "agent"], "created": "2026-07-06T07:45:00"}
+]
