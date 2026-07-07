@@ -1,0 +1,5 @@
+08:00 add note id=2 "准备 Day2 的课件"
+20:15 add note id=3 "整理小组 GitHub 仓库"
+20:16 list called count=4
+20:20 stats called ok
+20:41 ERROR stats crashed: IndexError in analyze.summary (no tagged notes in a fresh db)
